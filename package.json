@@ -1,0 +1,14 @@
+{
+  "name": "ecmascript-decorators",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "10.9.2",
+    "typescript": "5.3.3"
+  },
+  "scripts": {
+    "ts-node": "node --no-warnings --loader ts-node/esm"
+  }
+}
